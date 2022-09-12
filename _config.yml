@@ -5,7 +5,7 @@ locale: en_US
 description: These are my blogs and content. I love to write about JAVA, MongoDB, JavaScript, Groovy & Grails
 logo: site-logo.png
 search: true
-url: http://blogs.logicaldk.in
+url: http://megha.logicaldk.in
 
 # Jekyll configuration
 
@@ -38,11 +38,11 @@ paginate: 6
 
 # Site owner
 owner:
-  name: Dhanendra Kumar
+  name: Megha
   avatar: bio-photo.jpg
-  email: dhanendrakumarkht@gmail.com
-  contact-number: +91-9999264661, +91-8527971602
-  disqus-shortname: logicaldk
+  email: 1008meghaa@gmail.com
+  contact-number: +91-8527971602
+  disqus-shortname: Megha
   twitter: logical_dk
   facebook: dhanendrakumar
   github: dhanendra-kumar
